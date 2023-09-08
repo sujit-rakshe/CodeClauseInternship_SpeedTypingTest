@@ -13,8 +13,7 @@ A Python project that measures typing speed and accuracy with a Tkinter GUI. Thi
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshot1.png)
 
 ## Demo Video
 
